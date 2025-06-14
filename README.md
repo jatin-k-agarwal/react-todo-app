@@ -1,3 +1,53 @@
+# 📝 React To-Do List App
+
+A clean, responsive To-Do List application built using React. This app allows users to add, delete, mark tasks as completed, sort tasks by date, filter tasks, and preserves data using `localStorage`.
+
+Live Demo 👉 [Click Here](https://jatin-k-agarwal.github.io/react-todo-app)
+
+---
+
+## 🚀 Features
+
+- ✅ Add new tasks
+- 🗑️ Delete tasks
+- ✏️ Mark tasks as completed
+- 🔍 Filter by:
+  - All
+  - Completed
+  - Active
+- 📅 Sort by:
+  - Newest first
+  - Oldest first
+- 💾 Persistent data using `localStorage`
+- 📱 Fully responsive design
+
+---
+
+## 🛠️ Tech Stack
+
+- **React**
+- **JavaScript**
+- **CSS**
+- **HTML**
+- **Git & GitHub**
+- **GitHub Pages** (for deployment)
+
+---
+
+## 📦 Installation
+
+Clone the repository and run locally:
+
+```bash
+git clone https://github.com/jatin-k-agarwal/react-todo-app.git
+cd react-todo-app
+npm install
+npm start
+```
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
